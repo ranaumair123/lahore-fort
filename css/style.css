@@ -1,0 +1,44 @@
+body{
+    background-color: antiquewhite;
+}
+img{
+    max-width: 100%;
+}
+header h1{
+
+}
+.container {
+    position: relative;
+    text-align: center;
+    opacity: 75%;
+}
+.centered {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:rgb(196, 98, 98);
+    font-size: 50px;
+  }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
