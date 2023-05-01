@@ -4,12 +4,17 @@
 
 # Wireframe for the site
 <img src="images/wireframe.png">
+
 # Features
 The main features of this website is, it tell the evolution of Lahore fort in very easy to understand table
 The other features includes when you hover over the FAQS button
   <img src="images/screenshot4.png">
   the dropdown questions and answers appears about Lahore Fort tours
   <img src="images/screenshot5.png">
+
+
+# Color Scheme 
+The color scheme used in the webiste is mainly composed of shades of brown and white, with some black and green elements. The background-color for the body is a light yellowish-brown (rgba(254, 229, 170, 0.737)), while the background-color for the header and footer is black (#333). The font-color used for the header is black, while the font-color for the footer is white. The font-color used for the text in general is black, except for the links in the navigation bar, which are white. The color for the hover effect on the links in the navigation bar is a darker shade of black (#111), while the color for the button in the FAQ section is a greenish color (#04AA6D) and the color for its hover effect is a darker green (#3e8e41). The background-color for the answer section in the FAQ is a light yellowish-brown (rgba(243, 201, 103, 0.955)).
 
 # Testing
 
