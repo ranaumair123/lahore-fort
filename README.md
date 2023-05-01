@@ -2,6 +2,8 @@
  Lahore Fort is the famous historic Fort in Pakistan.The purpose of the website on Lahore Fort is to showcase the rich cultural heritage and historical significance of the fort, and to promote tourism in Lahore, Pakistan. The website aims to provide comprehensive information on the fort, including its history, architecture, and notable attractions, to attract and engage potential visitors, and to inspire them to visit and experience the unique charm of Lahore Fort. dating back 1000BC.It is one of UNESCO world heritage site.
  <img src="images/screenshot1.png">
 
+# Wireframe for the site
+<img src="images/wireframe.png">
 # Features
 The main features of this website is, it tell the evolution of Lahore fort in very easy to understand table
 The other features includes when you hover over the FAQS button
@@ -24,9 +26,22 @@ no errors were returned when passing through the official W3C validator.
 ### ACCESSIBILITY
 <img src="images/screenshot2.png">
 
+## Fixed bugs
+1.fixed Warped Stretched images below 670px
+
+2.fixed form validation and action on form
+
+3.write comments where they were missing.
+
+## Technology Used
+HTML5
+CSS3
+
 ## Unfixed Bugs
 I cant figure out how to attach navigation bar with the image above.
 ### Credits
+code institute for formdump page 
+youtube tutorials
 ### CONTENT
 https://tourism.punjab.gov.pk/
 ### IMAGES
